@@ -24,6 +24,9 @@ svg/noviair-light/  pen-stroke icons
 
 - All icons use a `0 0 24 24` viewBox and `currentColor`, so they take the text colour of their surroundings.
 - **NoviAir:** `fill="none"`, `stroke="currentColor"` and `stroke-width="1.25"` sit on the `<svg>` element. Change the stroke width with one attribute or one line of CSS, for example `svg { stroke-width: 2; }`. Recommended range: 0.75 – 2.
+
+![NoviAir stroke widths](stroke-widths.png)
+
 - **NoviAir Light:** filled shapes (`fill="currentColor"`), the stroke width is part of the drawing.
 - Many icons come with small variants in the lower right corner, for example `file-plus`, `user-check`, `calendar-clock`, `cloud-arrow-up`, and with `-off` variants such as `wifi-off`.
 
