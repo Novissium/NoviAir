@@ -2,6 +2,8 @@
 
 2,001 free line icons in two styles by [Novissium](https://novissium.com).
 
+Also available as a free [Figma Community file](https://www.figma.com/community/file/1702676815041563852) – every icon as a component.
+
 Light, slightly curved lines with round ends – like drawn by hand, but tidy. Made on a 24 px grid for interfaces, websites and apps.
 
 ![NoviAir preview](preview.png)
